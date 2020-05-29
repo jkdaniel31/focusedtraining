@@ -1,0 +1,2 @@
+# focusedtraining
+Skeleton of project
